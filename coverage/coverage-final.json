@@ -1,0 +1,2 @@
+{"/home/fujitime/code/belajar-vitest/src/say-hello.ts": {"path":"/home/fujitime/code/belajar-vitest/src/say-hello.ts","statementMap":{"0":{"start":{"line":1,"column":24},"end":{"line":1,"column":null}},"1":{"start":{"line":1,"column":42},"end":{"line":1,"column":null}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":24},"end":{"line":1,"column":25}},"loc":{"start":{"line":1,"column":42},"end":{"line":1,"column":null}}}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{}}
+}
